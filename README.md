@@ -10,8 +10,5 @@ Welcome to the DSA Repository! This repository serves as a comprehensive collect
 📖 About
 This repository contains:
 
-Implementations of popular Data Structures (arrays, linked lists, stacks, queues, trees, graphs, hashmaps, etc.).
--- Commonly used Algorithms (searching, sorting, dynamic programming, greedy, backtracking, etc.).
--- Solutions to coding problems from platforms like LeetCode, HackerRank, Codeforces, and more.
--- Step-by-step explanations for key concepts.
--- Sample problems and their solutions for interview preparation.
+Implementations of popular Data Structures (arrays, linked lists, stacks, queues, trees, graphs, hashmaps, etc.).                      
+ Commonly used Algorithms (searching, sorting, dynamic programming, greedy, backtracking, etc.).                
